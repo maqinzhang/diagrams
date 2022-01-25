@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T06:03:51.366Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Fbte5G7vY8ftu-ZpxbbW" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T06:13:45.047Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0-k_sRU013gYCkA64dG1" version="16.4.5" type="github">
   <diagram id="qINzFhqbTE6yxvJxC4iN" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,11 +9,11 @@
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="410" as="sourcePoint" />
+            <mxPoint x="81" y="420" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-32" y="410" />
+              <mxPoint x="-31" y="420" />
             </Array>
-            <mxPoint x="-32" y="619" as="targetPoint" />
+            <mxPoint x="-31" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-6" value="进行中" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#1FCBFF;" parent="1" vertex="1">
@@ -42,12 +42,12 @@
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="IOZMn-XIOWkaTDg5bGpa-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="530" as="sourcePoint" />
+            <mxPoint x="-20" y="482" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="IOZMn-XIOWkaTDg5bGpa-49" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="530" as="sourcePoint" />
+            <mxPoint x="-30" y="482" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-31" value="合成中" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;rounded=1;sketch=1;strokeColor=#0e8088;" parent="1" vertex="1">
@@ -78,8 +78,9 @@
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-37" value="进行中、合成中的&lt;br&gt;均可以取消任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" parent="1" vertex="1">
           <mxGeometry x="275" y="286" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.358;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-33" target="IOZMn-XIOWkaTDg5bGpa-102" edge="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.358;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="IOZMn-XIOWkaTDg5bGpa-102" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="240" as="sourcePoint" />
             <mxPoint x="811" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="240" />
@@ -106,13 +107,13 @@
           <mxGeometry x="-33" y="358" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-45" value="&lt;font color=&quot;#000000&quot;&gt;成功&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#00AB00;rounded=1;sketch=1;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-263" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-263" y="572" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-47" value="&lt;span&gt; &lt;/span&gt;完成" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;rounded=1;sketch=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-93" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-93" y="572" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-49" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 11px&quot;&gt;失败&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#F00037;rounded=1;sketch=1;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="81" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="572" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-51" target="IOZMn-XIOWkaTDg5bGpa-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -145,55 +146,55 @@
           <mxGeometry x="411" y="475" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-67" value="已删除" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;rounded=1;sketch=1;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="755" width="117" height="60" as="geometry" />
+          <mxGeometry x="-90" y="707" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-69" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" target="IOZMn-XIOWkaTDg5bGpa-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="780" as="sourcePoint" />
-            <mxPoint x="147" y="798" as="targetPoint" />
+            <mxPoint x="30" y="732" as="sourcePoint" />
+            <mxPoint x="147" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="141" y="780" />
+              <mxPoint x="141" y="732" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-70" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=-0.017;exitY=0.383;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-67" target="IOZMn-XIOWkaTDg5bGpa-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-203" y="780" as="sourcePoint" />
-            <mxPoint x="-173" y="690" as="targetPoint" />
+            <mxPoint x="-203" y="732" as="sourcePoint" />
+            <mxPoint x="-173" y="642" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-203" y="778" />
+              <mxPoint x="-203" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-71" value="恢复已删除数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="141" y="740" width="100" height="20" as="geometry" />
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-71" value="恢复删除前状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="140" y="680" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-72" value="恢复已删除数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-203" y="740" width="100" height="20" as="geometry" />
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-72" value="恢复删除前状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-203" y="680" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-67" target="IOZMn-XIOWkaTDg5bGpa-47" edge="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-53" y="750" as="sourcePoint" />
-            <mxPoint x="-3" y="700" as="targetPoint" />
+            <mxPoint x="-33" y="704" as="sourcePoint" />
+            <mxPoint x="-33" y="636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-74" value="删除任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-93" y="705" width="60" height="20" as="geometry" />
+          <mxGeometry x="-93" y="657" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-75" value="恢复已删除数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-33" y="705" width="100" height="20" as="geometry" />
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-75" value="恢复删除前状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-36" y="657" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-79" value="只有 复制、归档 任务可以选择暂停任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="403" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-81" value="合成失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="81" y="575" width="60" height="20" as="geometry" />
+          <mxGeometry x="80" y="515" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-83" value="合成成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-203" y="575" width="60" height="20" as="geometry" />
+          <mxGeometry x="-203" y="515" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-84" value="合成完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-33" y="575" width="60" height="20" as="geometry" />
+          <mxGeometry x="-33" y="515" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-87" value="&lt;font color=&quot;#000000&quot;&gt;重试等待中&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="180" y="495" width="120" height="60" as="geometry" />
@@ -242,12 +243,12 @@
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-106" value="取消失败 和 暂停失败，接收到客户端响应的运行中数据时，更新成进行中状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="441" y="291" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9bKIB16dmIjozaFGU-jZ-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#CC0066;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-67" target="IOZMn-XIOWkaTDg5bGpa-38" edge="1">
+        <mxCell id="9bKIB16dmIjozaFGU-jZ-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#CC0066;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="IOZMn-XIOWkaTDg5bGpa-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="800" as="sourcePoint" />
+            <mxPoint x="-90" y="752" as="sourcePoint" />
             <mxPoint x="620" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-280" y="800" />
+              <mxPoint x="-280" y="752" />
               <mxPoint x="-280" y="50" />
               <mxPoint x="580" y="50" />
               <mxPoint x="580" y="70" />
@@ -267,10 +268,10 @@
           <mxGeometry x="750" y="220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-4" value="删除任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="740" width="60" height="20" as="geometry" />
+          <mxGeometry x="-263" y="680" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-5" value="删除任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="81" y="740" width="60" height="20" as="geometry" />
+          <mxGeometry x="81" y="680" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IOZMn-XIOWkaTDg5bGpa-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -294,24 +295,27 @@
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="IOZMn-XIOWkaTDg5bGpa-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="90" as="sourcePoint" />
-            <mxPoint x="30" y="800" as="targetPoint" />
+            <mxPoint x="30" y="752" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="50" />
               <mxPoint x="930" y="50" />
-              <mxPoint x="930" y="800" />
+              <mxPoint x="930" y="752" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-19" value="删除任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="782" width="60" height="20" as="geometry" />
+          <mxGeometry x="446" y="731" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M9AsIK-H7qeOFOCYlXKp-20" value="恢复已删除数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="451" y="802" width="100" height="20" as="geometry" />
+        <mxCell id="M9AsIK-H7qeOFOCYlXKp-20" value="恢复删除前状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="427" y="751" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M9AsIK-H7qeOFOCYlXKp-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;exitX=0.375;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IOZMn-XIOWkaTDg5bGpa-54">
+        <mxCell id="M9AsIK-H7qeOFOCYlXKp-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;fontColor=#000000;exitX=0.375;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="530" as="sourcePoint" />
-            <mxPoint x="585" y="800" as="targetPoint" />
+            <mxPoint x="585" y="620.02" as="sourcePoint" />
+            <mxPoint x="930" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="710" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-29" value="" style="endArrow=classicThin;dashed=1;html=1;strokeWidth=1;rounded=0;fontSize=11;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="IOZMn-XIOWkaTDg5bGpa-87">
@@ -325,10 +329,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-32" value="删除任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="525" y="710" width="60" height="20" as="geometry" />
+          <mxGeometry x="750" y="687" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M9AsIK-H7qeOFOCYlXKp-33" value="恢复已删除数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="585" y="710" width="100" height="20" as="geometry" />
+        <mxCell id="M9AsIK-H7qeOFOCYlXKp-33" value="恢复删除前状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="711" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-34" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;fontSize=11;fontColor=#000000;strokeWidth=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="IOZMn-XIOWkaTDg5bGpa-87" target="IOZMn-XIOWkaTDg5bGpa-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
