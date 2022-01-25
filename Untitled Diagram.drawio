@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T01:40:42.042Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="821tIeBP4hRHeocMTgml" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:54:27.814Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="VtO7QsyY_eBmh1zSYQ8t" version="16.4.5" type="github">
   <diagram id="qINzFhqbTE6yxvJxC4iN" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,6 +223,23 @@
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-106" value="取消失败 和 暂停失败，接收到客户端响应的运行中数据时，更新成进行中状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="441" y="291" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9bKIB16dmIjozaFGU-jZ-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#CC0066;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOZMn-XIOWkaTDg5bGpa-67" target="IOZMn-XIOWkaTDg5bGpa-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="800" as="sourcePoint" />
+            <mxPoint x="620" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-280" y="800" />
+              <mxPoint x="-280" y="70" />
+              <mxPoint x="620" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bKIB16dmIjozaFGU-jZ-9" value="&lt;font color=&quot;#000000&quot;&gt;恢&lt;br&gt;复&lt;br&gt;已&lt;br&gt;删&lt;br&gt;除&lt;br&gt;数&lt;br&gt;据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#CC0066;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="90" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9bKIB16dmIjozaFGU-jZ-10" value="&lt;font color=&quot;#000000&quot;&gt;删&lt;br&gt;除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#CC0066;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="120" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
