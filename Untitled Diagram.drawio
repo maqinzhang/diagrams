@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T01:38:17.748Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="i_gveTNsn-KC7AbxslGM" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:40:42.042Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="821tIeBP4hRHeocMTgml" version="16.4.5" type="github">
   <diagram id="qINzFhqbTE6yxvJxC4iN" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,10 +102,10 @@
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-51" target="IOZMn-XIOWkaTDg5bGpa-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-51" value="&lt;span&gt;	&lt;/span&gt;暂停中" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-51" value="&lt;span&gt;	&lt;/span&gt;暂停中" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#CDDCE8;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-54" value="已暂停" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#778087;strokeColor=#23445d;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-54" value="已暂停" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#A2AEB8;strokeColor=#23445d;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-61" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -192,10 +192,10 @@
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-94" value="重试等待后重新&lt;br&gt;进入运行状态&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="241" y="445" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-95" value="暂停失败" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-95" value="暂停失败" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#666E73;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="760" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOZMn-XIOWkaTDg5bGpa-102" value="取消失败" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;sketch=1;" parent="1" vertex="1">
+        <mxCell id="IOZMn-XIOWkaTDg5bGpa-102" value="取消失败" style="whiteSpace=wrap;html=1;fillColor=#968500;strokeColor=#B09500;fontColor=#000000;rounded=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-104" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.008;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-102" target="IOZMn-XIOWkaTDg5bGpa-6" edge="1">
