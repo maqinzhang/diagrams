@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T02:06:25.910Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Gzb8pRtOgZXLjnbD4qNY" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T02:38:08.177Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0G8krZfk2oymVBKudRih" version="16.4.5" type="github">
   <diagram id="qINzFhqbTE6yxvJxC4iN" name="Page-1">
-    <mxGraphModel dx="2249" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-35" value="取消任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="100" width="60" height="20" as="geometry" />
+          <mxGeometry x="400" y="100" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-37" value="取消任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" parent="1" vertex="1">
-          <mxGeometry x="323" y="308" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZMn-XIOWkaTDg5bGpa-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IOZMn-XIOWkaTDg5bGpa-38" target="IOZMn-XIOWkaTDg5bGpa-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -241,8 +241,8 @@
         <mxCell id="9bKIB16dmIjozaFGU-jZ-9" value="&lt;font color=&quot;#000000&quot;&gt;恢&lt;br&gt;复&lt;br&gt;已&lt;br&gt;删&lt;br&gt;除&lt;br&gt;数&lt;br&gt;据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#CC0066;" parent="1" vertex="1">
           <mxGeometry x="-280" y="90" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9bKIB16dmIjozaFGU-jZ-10" value="&lt;font color=&quot;#000000&quot;&gt;删&lt;br&gt;除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#CC0066;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="120" width="30" height="30" as="geometry" />
+        <mxCell id="9bKIB16dmIjozaFGU-jZ-10" value="&lt;font color=&quot;#000000&quot;&gt;删&lt;br&gt;除&lt;br&gt;任&lt;br&gt;务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#CC0066;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M9AsIK-H7qeOFOCYlXKp-2" value="&lt;font color=&quot;#000000&quot;&gt;暂停失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#660000;" vertex="1" parent="1">
           <mxGeometry x="680" y="370" width="60" height="20" as="geometry" />
