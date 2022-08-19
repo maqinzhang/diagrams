@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T02:48:51.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-vLTbQxv8G8c5D0GM4HO" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T05:54:31.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="esSQ5Wpot4CqS_b6LpAl" version="20.2.2" type="github">
   <diagram id="WygUvt_7TBFnepqblgQ6" name="第 1 页">
-    <mxGraphModel dx="1550" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="4070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,6 +432,131 @@
         </mxCell>
         <mxCell id="y6izujd-BnKyKJJSsD-p-135" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-155" target="y6izujd-BnKyKJJSsD-p-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-155" value="数据对象A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-157" target="y6izujd-BnKyKJJSsD-p-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="-1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="-1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-157" value="存储池A&lt;br&gt;（设置策略级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-159" target="y6izujd-BnKyKJJSsD-p-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-159" value="存储池B&lt;br&gt;（设置池级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-160" value="策略级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="829" y="-1675" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-162" target="y6izujd-BnKyKJJSsD-p-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-162" value="数据对象B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-163" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-1830" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-164" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1830" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-165" value="存储池C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-166" value="存储池级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-1755" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-167" value="存储池D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-169" target="y6izujd-BnKyKJJSsD-p-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-169" value="数据对象A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-171" target="y6izujd-BnKyKJJSsD-p-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-171" value="存储池A&lt;br&gt;（设置策略级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-173" target="y6izujd-BnKyKJJSsD-p-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-173" value="存储池B&lt;br&gt;（设置策略级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-174" value="策略级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-1396" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-176" target="y6izujd-BnKyKJJSsD-p-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-176" value="数据对象B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-177" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-1471" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-178" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1471" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-180" value="存储池C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-181" value="策略级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-1396" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-188" target="y6izujd-BnKyKJJSsD-p-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-188" value="数据对象A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-190" target="y6izujd-BnKyKJJSsD-p-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-190" value="存储池A&lt;br&gt;（设置池级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-192" target="y6izujd-BnKyKJJSsD-p-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-192" value="存储池B&lt;br&gt;（设置池级复制）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-193" value="存储池级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-1075" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6izujd-BnKyKJJSsD-p-195" target="y6izujd-BnKyKJJSsD-p-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-195" value="数据对象B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-196" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-1150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-197" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-199" value="存储池C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-200" value="存储池级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-1075" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
