@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:16:26.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uAnEV9RD12gyX3QTGYqD" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T06:21:33.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QAHqW_YUQLtalLssGvDy" version="20.2.2" type="github">
   <diagram id="WygUvt_7TBFnepqblgQ6" name="第 1 页">
-    <mxGraphModel dx="1550" dy="4212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="4070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,6 +609,15 @@
         </mxCell>
         <mxCell id="y6izujd-BnKyKJJSsD-p-227" value="存储池级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-1075" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-231" value="场景A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;hachureGap=4;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-233" value="场景B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;hachureGap=4;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1561" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6izujd-BnKyKJJSsD-p-234" value="场景C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;hachureGap=4;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
