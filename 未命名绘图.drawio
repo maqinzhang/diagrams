@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T03:28:52.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0ztdbpF_y6fYpJuzDbhv" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T03:30:00.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FRteSiA_NIYh5RRyhncO" version="20.2.5" type="github">
   <diagram id="WygUvt_7TBFnepqblgQ6" name="第 1 页">
     <mxGraphModel dx="1550" dy="4436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
         <mxCell id="y6izujd-BnKyKJJSsD-p-160" value="策略级复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="829" y="-1675" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6izujd-BnKyKJJSsD-p-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y6izujd-BnKyKJJSsD-p-162" target="y6izujd-BnKyKJJSsD-p-159" edge="1">
+        <mxCell id="y6izujd-BnKyKJJSsD-p-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="y6izujd-BnKyKJJSsD-p-162" target="y6izujd-BnKyKJJSsD-p-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6izujd-BnKyKJJSsD-p-162" value="备份策略B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;sketch=1;" parent="1" vertex="1">
@@ -468,8 +468,8 @@
         <mxCell id="y6izujd-BnKyKJJSsD-p-163" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="-1830" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6izujd-BnKyKJJSsD-p-164" value="备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="-1830" width="50" height="30" as="geometry" />
+        <mxCell id="y6izujd-BnKyKJJSsD-p-164" value="备份，不支持" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="699" y="-1830" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6izujd-BnKyKJJSsD-p-165" value="存储池C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;glass=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="-1760" width="120" height="60" as="geometry" />
