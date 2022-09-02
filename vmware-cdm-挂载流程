@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T11:26:44.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="pVfRpdULycLHxTDLcWdK" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T03:10:52.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BkBbtJFUmd_a3mJhyoZS" version="20.2.6" type="github">
   <diagram id="gaHnp5HNyI2EpV0wUmyE" name="第 1 页">
-    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,11 +236,11 @@
         <mxCell id="6NXV645BueC43u73xJuQ-1" value="任务执行失败，通知ETCD取消映射&amp;amp;销毁克隆卷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="2075" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R9Jw4J8w2gRmclkdWIkf-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VMware CDM 挂载&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;业务流程&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=60;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2290" width="1020" height="1020" as="geometry" />
+        <mxCell id="R9Jw4J8w2gRmclkdWIkf-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VMware CDM 卸载&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;业务流程&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=60;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2290" width="1020" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="R9Jw4J8w2gRmclkdWIkf-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Director&lt;/font&gt;" style="swimlane;html=1;startSize=40;" vertex="1" parent="R9Jw4J8w2gRmclkdWIkf-38">
-          <mxGeometry y="60" width="360" height="960" as="geometry" />
+          <mxGeometry y="60" width="360" height="970" as="geometry" />
         </mxCell>
         <mxCell id="R9Jw4J8w2gRmclkdWIkf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R9Jw4J8w2gRmclkdWIkf-39" source="R9Jw4J8w2gRmclkdWIkf-41" target="R9Jw4J8w2gRmclkdWIkf-42">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +286,7 @@
           <mxGeometry x="120" y="732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9Jw4J8w2gRmclkdWIkf-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SubEngine&lt;/font&gt;" style="swimlane;html=1;startSize=40;" vertex="1" parent="R9Jw4J8w2gRmclkdWIkf-38">
-          <mxGeometry x="360" y="60" width="330" height="960" as="geometry">
+          <mxGeometry x="360" y="60" width="330" height="970" as="geometry">
             <mxRectangle x="250" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -303,7 +303,7 @@
           <mxGeometry x="20" y="870" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R9Jw4J8w2gRmclkdWIkf-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ETCD&lt;/span&gt;" style="swimlane;html=1;startSize=40;" vertex="1" parent="R9Jw4J8w2gRmclkdWIkf-38">
-          <mxGeometry x="690" y="60" width="330" height="960" as="geometry">
+          <mxGeometry x="690" y="60" width="330" height="970" as="geometry">
             <mxRectangle x="250" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
