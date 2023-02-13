@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:48:01.410Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="i9SlKINT43Wx9u876ZJS" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:06:45.873Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="H6bImmnyIBSSMgHkEJCd" version="20.8.20" type="github">
   <diagram name="第 1 页" id="6AVOO0gHEZ01IXKSFVzA">
     <mxGraphModel dx="1562" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="0UFPRVKvmW1wCOfxtvUX-11" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0UFPRVKvmW1wCOfxtvUX-4" vertex="1">
           <mxGeometry x="140" y="290" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0UFPRVKvmW1wCOfxtvUX-14" value="任务失败" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#FFCCCC;strokeColor=#B85450;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;sketch=1;fillStyle=auto;perimeterSpacing=0;" parent="0UFPRVKvmW1wCOfxtvUX-4" vertex="1">
+        <mxCell id="0UFPRVKvmW1wCOfxtvUX-14" value="任务完成DONE，表明没有需要执行vault出库记录" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#FFCCCC;strokeColor=#B85450;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;sketch=1;fillStyle=auto;perimeterSpacing=0;" parent="0UFPRVKvmW1wCOfxtvUX-4" vertex="1">
           <mxGeometry x="230" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UFPRVKvmW1wCOfxtvUX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0UFPRVKvmW1wCOfxtvUX-4" source="0UFPRVKvmW1wCOfxtvUX-7" target="0UFPRVKvmW1wCOfxtvUX-14" edge="1">
