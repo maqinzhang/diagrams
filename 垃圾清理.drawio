@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T02:23:15.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Rp4HG_DPuE5pgCLtJTtq" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:25:44.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="foci2-_irTJsF9WoEHtT" version="21.5.2" type="github">
   <diagram name="第 1 页" id="xIRtXXGn481l6FrESkQN">
-    <mxGraphModel dx="1562" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,8 +56,8 @@
         <mxCell id="4CS2FM6U55fI_8ZflwGE-16" value="返回任务是否正常发起" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4CS2FM6U55fI_8ZflwGE-10" vertex="1">
           <mxGeometry x="-60" y="472" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4CS2FM6U55fI_8ZflwGE-17" value="True，组织业务消息，分发处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4CS2FM6U55fI_8ZflwGE-10" vertex="1">
-          <mxGeometry x="-120" y="205" width="190" height="30" as="geometry" />
+        <mxCell id="4CS2FM6U55fI_8ZflwGE-17" value="True，组织业务卸盘消息，分发处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4CS2FM6U55fI_8ZflwGE-10" vertex="1">
+          <mxGeometry x="-135" y="205" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4CS2FM6U55fI_8ZflwGE-18" value="任务执行成功，通知Etcd取消映射&amp;amp;回收卷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4CS2FM6U55fI_8ZflwGE-10" vertex="1">
           <mxGeometry x="25" y="705" width="250" height="30" as="geometry" />
