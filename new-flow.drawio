@@ -1,11 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="hP-5Kn09OeGf0pIP53y1">
-    <mxGraphModel dx="1042" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EOjmRhCprhHvjHIjYehg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="y5y91v5eHH_URu8jY8WE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOjmRhCprhHvjHIjYehg-1" target="y5y91v5eHH_URu8jY8WE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOjmRhCprhHvjHIjYehg-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-1" target="y5y91v5eHH_URu8jY8WE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-1" value="选择备份集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-3" target="y5y91v5eHH_URu8jY8WE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-3" value="调用NBU恢复指令" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-5" target="y5y91v5eHH_URu8jY8WE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="430" />
+              <mxPoint x="600" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-5" value="恢复到指定客户端" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-7" value="发起客户端上的Oracle备份" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-11" target="y5y91v5eHH_URu8jY8WE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-11" target="y5y91v5eHH_URu8jY8WE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-11" value="监听备份任务运行情况" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-17" target="y5y91v5eHH_URu8jY8WE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-17" value="成功，检查快照是否存在" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-19" value="失败，任务结束" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-21" value="执行后续，挂载验证等步骤" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-17" target="y5y91v5eHH_URu8jY8WE-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="810" as="sourcePoint" />
+            <mxPoint x="550" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
