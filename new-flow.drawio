@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="hP-5Kn09OeGf0pIP53y1">
-    <mxGraphModel dx="782" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y5y91v5eHH_URu8jY8WE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOjmRhCprhHvjHIjYehg-1" target="y5y91v5eHH_URu8jY8WE-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EOjmRhCprhHvjHIjYehg-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="EOjmRhCprhHvjHIjYehg-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5y91v5eHH_URu8jY8WE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-1" target="y5y91v5eHH_URu8jY8WE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-1" value="选择备份集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-1" value="转储平台选择备份集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5y91v5eHH_URu8jY8WE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-3" target="y5y91v5eHH_URu8jY8WE-5">
@@ -38,7 +38,7 @@
             <mxPoint x="600" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-7" value="发起客户端上的Oracle备份" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-7" value="通过API发起客户端上的Oracle备份" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5y91v5eHH_URu8jY8WE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-11" target="y5y91v5eHH_URu8jY8WE-17">
@@ -47,19 +47,22 @@
         <mxCell id="y5y91v5eHH_URu8jY8WE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-11" target="y5y91v5eHH_URu8jY8WE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-11" value="监听备份任务运行情况" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-11" value="监听备份任务运行情况" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y5y91v5eHH_URu8jY8WE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-17" target="y5y91v5eHH_URu8jY8WE-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-17" value="成功，检查快照是否存在" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-17" value="成功，检查快照是否存在" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-19" value="失败，任务结束" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-19" value="失败，任务结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y5y91v5eHH_URu8jY8WE-21" value="执行后续，挂载验证等步骤" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="y5y91v5eHH_URu8jY8WE-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-21" target="y5y91v5eHH_URu8jY8WE-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-21" value="执行后续，挂载验证等步骤" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5y91v5eHH_URu8jY8WE-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-17" target="y5y91v5eHH_URu8jY8WE-19">
@@ -70,6 +73,93 @@
               <mxPoint x="440" y="810" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-26" target="y5y91v5eHH_URu8jY8WE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-26" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-28" target="y5y91v5eHH_URu8jY8WE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-28" value="转储平台选择备份集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-30" target="y5y91v5eHH_URu8jY8WE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-30" value="调用NBU恢复指令" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-32" target="y5y91v5eHH_URu8jY8WE-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1300" />
+              <mxPoint x="600" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-32" value="恢复到指定客户端" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-34" value="执行Oracle备份指令，将数据备份NFS共享存储" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-43" value="挂载NFS共享存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-49" value="。。。" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="y5y91v5eHH_URu8jY8WE-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-52" target="y5y91v5eHH_URu8jY8WE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-52" value="任务成功，执行卸载操作" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-54" value="调用API生成快照" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5y91v5eHH_URu8jY8WE-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-56" value="转储客户端上报任务运行情况" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-59" value="失败，任务结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-63" value="执行后续，挂载验证等步骤" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;方案一：通过Oracle保护对象方式转储&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;1、nbu恢复到指定客户端&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;2、该Oracle数据对象设置好绑定策略，备份到指定存储池&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;3、调用open-eBackup的备份api ，此次备份生成的快照时间为当前时间，非nbu导出时间、需修改（最好是提供修改快照时间接口，对备份无侵入）&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;4、快照是否需要复制、归档、由open-eBackup驱动，也可通过调用API实现&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;5、同样生成的快照后续的恢复演练也由open-eBackup驱动&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;该方案存在另外一个问题，保存的快照信息是在客户端的数据对象（保护对象）上，如转储复用客户端会把转储后的备份快照数据搞混淆。&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;如果不复用客户端，会导致转储客户端数量比较多。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="470" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="y5y91v5eHH_URu8jY8WE-65" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;方案二：通过通用共享存储保护对象方式转储&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;1、nbu恢复到指定客户端&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;2、该共享存储设置好绑定策略，备份到指定存储池&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;3、客户端挂载共享存储&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;4、客户端恢复指定备份集&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;5、执行原格式或者逻辑导出指令，将数据备份到共享存储&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;6、&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent;&quot;&gt;调用open-eBackup的备份api ，此次备份生成的快照时间为当前时间，非nbu导出时间、需修改（最好是提供修改快照时间接口，对备份无侵入）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;7、快照是否需要复制、归档、由open-eBackup驱动，也可通过调用API实现&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;8、同样生成的快照后续的恢复演练也由open-eBackup驱动&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-tt=&quot;{&amp;quot;paragraphStyle&amp;quot;:{&amp;quot;alignment&amp;quot;:4,&amp;quot;writingDirection&amp;quot;:1}}&quot;&gt;该方案存在另外一个问题，共享存储是没有数据源属性的，在挂载恢复使用时，需额外增加处理能力，平台目前只提供了快照映射，无指定客户端的恢复操作，需程序定制支持&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent;&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;且方案中提到的挂载、卸载均需要客户端能力支持。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1070" width="530" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
